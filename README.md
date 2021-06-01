@@ -1,3 +1,3 @@
-# Java Start
+# 01_HelloWorld
 
-### 01_HelloWorld
+### Der Start in Java
